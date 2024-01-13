@@ -1,7 +1,5 @@
 # Hotel_booking_demand
 
-###Introduction
-
 **Context**:  
 Cancelations are an important aspect to any sales process.  In this project we will review canceled reservations for hotels in Portugal in efforts to better understand trends and areas for opportunity.
 
